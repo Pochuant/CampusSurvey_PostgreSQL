@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document>
+<Style id="z1">
+<IconStyle><Icon><href>http://www.google.com/intl/en_us/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle>
+</Style>
+<Placemark><name>1.Lorenzo (home)</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.273,34.027</coordinates></Point>
+</Placemark>
+<Placemark><name>2.Social Work</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.282,34.022</coordinates></Point>
+</Placemark>
+<Placemark><name>3.Leavey Library</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.283,34.0218</coordinates></Point>
+</Placemark>
+<Placemark><name>4.BOA</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.291,34.025</coordinates></Point>
+</Placemark>
+<Placemark><name>5.Citi Bank</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.292,34.022</coordinates></Point>
+</Placemark>
+<Placemark><name>6.Gerontology</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.290,34.020</coordinates></Point>
+</Placemark>
+<Placemark><name>7.RTCC</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.286,34.020</coordinates></Point>
+</Placemark>
+<Placemark><name>8.Cinematic Arts</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.287,34.023</coordinates></Point>
+</Placemark>
+<Placemark><name>9.VKC Library</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.284,34.021</coordinates></Point>
+</Placemark>
+<Placemark><name>10.Gould Library</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.284,34.0186</coordinates></Point>
+</Placemark>
+<Placemark><name>11.Galen Center</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.279,34.021</coordinates></Point>
+</Placemark>
+
+<Placemark>
+<name>Convex Hull</name>
+<Polygon> <outerBoundaryIs> <LinearRing> <coordinates> -118.284,34.0186 -118.29,34.02 -118.292,34.022 -118.291,34.025 -118.273,34.027 -118.279,34.021 -118.284,34.0186 </coordinates> </LinearRing> </outerBoundaryIs>
+</Polygon> 
+</Placemark>
+
+<Placemark>
+<name>Polygon_1</name>
+<Polygon> <outerBoundaryIs> <LinearRing> <coordinates> -118.284,34.0186 -118.284,34.021 -118.283,34.0218 -118.273,34.027 -118.279,34.021 -118.284,34.0186 </coordinates> </LinearRing> </outerBoundaryIs> </Polygon>
+</Placemark>
+
+<Placemark>
+<name>Polygon_2</name>
+<Polygon> <outerBoundaryIs> <LinearRing> <coordinates> -118.29,34.02 -118.292,34.022 -118.291,34.025 -118.287,34.023 -118.286,34.02 -118.29,34.02 </coordinates> </LinearRing> </outerBoundaryIs> </Polygon>
+
+</Placemark>
+
+
+</Document></kml>
